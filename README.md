@@ -1,6 +1,6 @@
 <h1>Projeto do Mario</h1>
 <br>
-<h2>Esse projeto eu criei usando os conhecimentos aprendidos pelo curso <a href="https://rodolfomori.com.br/devclub/">Site DevClub</a></h2>
+<h2>Esse projeto eu criei usando os conhecimentos aprendidos pelo curso <a href="https://rodolfomori.com.br/devclub/">DevClub</a></h2>
 <p>DevClub não é apenas um curso de Programação. É uma formação de profissionais com um propósito ainda maior. Fazer parte da Comunidade DevClub é estar disposto a buscar uma melhor versão de você mesmo.</p>
 
 <h3>Tecnologias Utilizadas</h3>
